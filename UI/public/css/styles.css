@@ -1,0 +1,6 @@
+
+#grad1 {
+  height: 100%;
+  background-color: blue; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, blue , DodgerBlue); /* Standard syntax (must be last) */
+}
